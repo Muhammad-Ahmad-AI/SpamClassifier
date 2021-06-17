@@ -1,2 +1,2 @@
 # SpamClassifier
-SpamClassifier using Naïve Byes
+SpamClassifier using Naïve Byes.
